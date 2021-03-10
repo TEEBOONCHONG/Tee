@@ -30,7 +30,7 @@ public class P1Q1 {
         
         System.out.print("\n");
         
-        System.out.print("What is your target GPA for this semester? ");
+        System.out.print("aWhat is your target GPA for this semester? ");
         double target = input.nextDouble();
         
         System.out.print("\n");
